@@ -1,16 +1,24 @@
-## Hi there 👋
+# Christopher Angerer
 
-<!--
-**angerchris/angerchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **[lokal.live](https://www.lokallive.de)** — making local business information easier to publish and keep current.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Restaurants, cafés, food trucks and other local businesses need a simple way to share what's happening today — without spending time maintaining complicated systems.
+
+With **lokal.live**, businesses can send updates via WhatsApp and publish useful information on a public location page, accessible through a QR code.
+
+- Opening hours and temporary changes
+- Menus, specials and announcements
+- Practical information customers need before visiting
+- Easy updates without a complicated publishing workflow
+
+## Join our pilot
+
+We're inviting local businesses to try lokal.live with **30 days free** and **unlimited updates during the pilot**.
+
+**[Explore lokal.live and the pilot →](https://www.lokallive.de/fuer-betriebe)**
+
+---
+
+*Building practical tools for local businesses, one useful update at a time.*
